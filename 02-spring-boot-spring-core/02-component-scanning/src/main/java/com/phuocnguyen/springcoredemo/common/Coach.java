@@ -1,4 +1,4 @@
-package com.phuocnguyen.springcoredemo;
+package com.phuocnguyen.springcoredemo.common;
 
 public interface Coach {
 
